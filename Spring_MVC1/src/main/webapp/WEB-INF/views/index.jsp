@@ -12,9 +12,9 @@
 		<h2>Hi from Spring</h2>
 		<br/>
 		<br/>
-		<a href="inicio/reqForm">Go to the Form Basic</a>
+		<a href="inicio/reqForm">GO TO BASIC FORM</a>
 		<br><br>
-		<a href="alumno/showForm">Go to section Alumno</a>
+		<a href="alumno/showForm">Go TO STUDENT SECTION</a>
 	</div>
 
 </body>
